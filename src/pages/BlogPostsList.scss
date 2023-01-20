@@ -1,0 +1,44 @@
+@import "../assets/base.scss";
+
+.blog-posts-list {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: auto;
+  padding: 2rem 1rem 4rem;
+  .add-post {
+    @include button-styles-mixin;
+    grid-column: 1/-1;
+    grid-row: 1/2;
+    margin-bottom: 2rem;
+    max-width: 8rem;
+    text-align: center;
+  }
+  .no-match-post {
+    font-weight: bolder;
+    grid-column: 1/-1;
+    line-height: 2rem;
+    text-align: center;
+    span {
+      font-size: 1rem;
+      font-weight: lighter;
+    }
+  }
+  .no-more-results {
+    font-size: .8rem;
+    grid-column: 1/-1;
+    margin: 1rem 0;
+    text-align: center;
+  }
+  @media (min-width: 570px) {
+    grid-template-columns: 1fr 1fr;
+    margin: auto;
+    max-width: 35rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+  }
+  @media (min-width: 768px) {
+    grid-template-columns: 1fr 1fr 1fr;
+    max-width: unset;
+    padding-top: 3rem;
+  }
+}

@@ -1,0 +1,28 @@
+@import "../assets/base.scss";
+
+.blog-post-form {
+  @include section-styles-mixin();
+  form {
+    @include form-styles-mixin();
+    .title, .intro, .cover, .createdBy, .body, .conclusion {
+      display: flex;
+      flex-direction: column;
+      gap: .2rem;
+    }
+    .cover {
+      img {
+        margin-top: 1rem;
+        max-height: 30rem;
+        object-fit: cover;
+        object-position: center;
+        width: 100%;
+      }
+    }
+    .error {
+      @include error-message-mixin;
+    }
+    .submit {
+      @include button-styles-mixin;
+    }
+  }
+}

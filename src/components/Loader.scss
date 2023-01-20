@@ -1,0 +1,17 @@
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.loader {
+  align-self: center;
+  animation: rotation 2s infinite linear;
+  font-size: 2rem;
+  height: 2rem;
+  margin-top: 1rem;
+  width: 2rem;
+}

@@ -1,0 +1,19 @@
+@import "../assets/base.scss";
+
+.contact-form {
+  @include section-styles-mixin();
+  form {
+    @include form-styles-mixin();
+    .name, .email, .message {
+      display: flex;
+      flex-direction: column;
+      gap: .2rem;
+    }
+    .error {
+      @include error-message-mixin;
+    }
+    .submit {
+      @include button-styles-mixin;
+    }
+  }
+}

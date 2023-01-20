@@ -1,0 +1,279 @@
+{
+  "company": {
+    "logo": "/placeholder.svg",
+    "hero": {
+      "image": "https://www.totallifecounseling.com/wp-content/uploads/2015/02/happy-people.jpg",
+      "title": "Excepteur et culpa eu nostrud aliqua",
+      "description": "Excepteur et culpa eu nostrud aliqua"
+    },
+    "information": "Fake Consectetur Lorem sunt dolore veniam incididunt tempor occaecat amet duis eu. Eu magna tempor ullamco est. Ea nulla anim amet est et duis velit irure est labore laborum tempor cupidatat laborum. Sit commodo minim in laborum cupidatat nostrud deserunt incididunt eiusmod ut veniam. Tempor elit nisi fugiat eiusmod eiusmod ipsum non consectetur.",
+    "video": "https://www.youtube.com/embed/msizPweg3kE"
+  },
+  "messages": [
+    {
+      "name": "Norman Carcamo",
+      "email": "normancarcamo@gmail.com",
+      "message": "cccggg"
+    },
+    {
+      "name": "Norman",
+      "email": "normancarcamo@gmail.com",
+      "message": "Hola there!"
+    }
+  ],
+  "posts": [
+    {
+      "id": "01GQ2H0P8JJFWGZNEDRTKDP40H",
+      "title": "massa tempor convallis nulla neque libero convallis eget",
+      "intro": "scale e-business infomediaries",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "jsilkstone0",
+      "body": "tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula",
+      "conclusion": "rhoncus sed vestibulum sit amet cursus id turpis integer aliquet",
+      "createdAt": "8/30/2022",
+      "slug": "massa-tempor-convallis-nulla-neque-libero-convallis-eget"
+    },
+    {
+      "id": "01GQ2H0P8Q0AGFRGNVQNKQ4V59",
+      "title": "varius integer ac leo pellentesque ultrices mattis odio donec vitae",
+      "intro": "drive best-of-breed schemas",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "aduffree1",
+      "body": "eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa",
+      "conclusion": "vulputate elementum nullam varius nulla facilisi cras non velit nec",
+      "createdAt": "3/21/2022",
+      "slug": "varius-integer-ac-leo-pellentesque-ultrices-mattis-odio-donec-vitae"
+    },
+    {
+      "id": "01GQ2H0P8W9K1YVE0K7662M9JB",
+      "title": "fusce lacus purus aliquet at feugiat non pretium",
+      "intro": "leverage sticky channels",
+      "cover": "http://dummyimage.com/500x500.png/ff4444/ffffff",
+      "createdBy": "ehuggett2",
+      "body": "sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras in purus eu magna vulputate luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem",
+      "conclusion": "justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis",
+      "createdAt": "8/29/2022",
+      "slug": "fusce-lacus-purus-aliquet-at-feugiat-non-pretium"
+    },
+    {
+      "id": "01GQ2H0PAFCE8RRRKHJR8Q0T60",
+      "title": "massa volutpat convallis morbi odio odio elementum",
+      "intro": "transition real-time synergies",
+      "cover": "http://dummyimage.com/500x500.png/cc0000/ffffff",
+      "createdBy": "rpeatd",
+      "body": "tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo",
+      "conclusion": "id ornare imperdiet sapien urna pretium nisl ut volutpat sapien",
+      "createdAt": "6/19/2022",
+      "slug": "massa-volutpat-convallis-morbi-odio-odio-elementum"
+    },
+    {
+      "id": "01GQ2H0PAKGV8FYVPVCPN8C2ES",
+      "title": "eget eros elementum pellentesque quisque porta volutpat erat quisque",
+      "intro": "mesh mission-critical e-services",
+      "cover": "http://dummyimage.com/500x500.png/cc0000/ffffff",
+      "createdBy": "amillhousee",
+      "body": "justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae",
+      "conclusion": "sem fusce consequat nulla nisl nunc nisl duis bibendum felis",
+      "createdAt": "12/25/2022",
+      "slug": "eget-eros-elementum-pellentesque-quisque-porta-volutpat-erat-quisque"
+    },
+    {
+      "id": "01GQ2H0PAPS1ACVY3S6MAV90G7",
+      "title": "Error Boundaries",
+      "slug": "error-boundaries",
+      "intro": "expedite frictionless synergies",
+      "cover": "http://dummyimage.com/500x500.png/ff4444/ffffff",
+      "body": "dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis",
+      "conclusion": "at nibh in hac habitasse platea dictumst aliquam augue quam",
+      "createdAt": "12/25/2022",
+      "createdBy": "mgregorif"
+    },
+    {
+      "id": "01GQ2H0PAT9F2PWBAWDP83ZXXH",
+      "title": "turpis sed ante vivamus tortor duis mattis egestas",
+      "intro": "strategize cross-media applications",
+      "cover": "http://dummyimage.com/500x500.png/cc0000/ffffff",
+      "createdBy": "mworboyg",
+      "body": "luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat",
+      "conclusion": "integer ac neque duis bibendum morbi non quam nec dui",
+      "createdAt": "12/12/2022",
+      "slug": "turpis-sed-ante-vivamus-tortor-duis-mattis-egestas"
+    },
+    {
+      "id": "01GQ2H0PAX446JKEKPNTAB8EBD",
+      "title": "amet nunc viverra dapibus nulla suscipit",
+      "intro": "envisioneer e-business networks",
+      "cover": "http://dummyimage.com/500x500.png/ff4444/ffffff",
+      "createdBy": "tskitralh",
+      "body": "viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis",
+      "conclusion": "augue a suscipit nulla elit ac nulla sed vel enim",
+      "createdAt": "7/29/2022",
+      "slug": "amet-nunc-viverra-dapibus-nulla-suscipit"
+    },
+    {
+      "id": "01GQ2H0PB03VCR4DKS023X432T",
+      "title": "consequat ut nulla sed accumsan felis ut at dolor quis",
+      "intro": "repurpose scalable communities",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "imcallisteri",
+      "body": "nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque",
+      "conclusion": "elementum nullam varius nulla facilisi cras non velit nec nisi",
+      "createdAt": "3/31/2022",
+      "slug": "consequat-ut-nulla-sed-accumsan-felis-ut-at-dolor-quis"
+    },
+    {
+      "id": "01GQ2H0PB2P27X48763JCE2HAN",
+      "title": "non sodales sed tincidunt eu felis fusce posuere",
+      "intro": "enhance e-business action-items",
+      "cover": "http://dummyimage.com/500x500.png/dddddd/000000",
+      "createdBy": "mgeggusj",
+      "body": "molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante",
+      "conclusion": "nulla tempus vivamus in felis eu sapien cursus vestibulum proin",
+      "createdAt": "6/27/2022",
+      "slug": "non-sodales-sed-tincidunt-eu-felis-fusce-posuere"
+    },
+    {
+      "id": "01GQ2H0PB66DXN3Z6QST9ZW65P",
+      "title": "integer ac neque duis bibendum morbi non quam nec",
+      "intro": "incentivize out-of-the-box experiences",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "cgarriockk",
+      "body": "eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna",
+      "conclusion": "congue risus semper porta volutpat quam pede lobortis ligula sit",
+      "createdAt": "2/11/2022",
+      "slug": "integer-ac-neque-duis-bibendum-morbi-non-quam-nec"
+    },
+    {
+      "id": "01GQ2H0PB90WWM2FM8CNBCQ5T1",
+      "title": "nulla ut erat id mauris vulputate elementum nullam",
+      "intro": "extend bricks-and-clicks functionalities",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "cgurnerl",
+      "body": "vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut",
+      "conclusion": "mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor",
+      "createdAt": "9/13/2022",
+      "slug": "nulla-ut-erat-id-mauris-vulputate-elementum-nullam"
+    },
+    {
+      "id": "01GQ2H0PBD8CH49M4S7XVHADBW",
+      "title": "magna vulputate luctus cum sociis natoque penatibus et magnis dis",
+      "intro": "drive seamless e-markets",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "cfaucherandm",
+      "body": "neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius nulla",
+      "conclusion": "arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus",
+      "createdAt": "7/10/2022",
+      "slug": "magna-vulputate-luctus-cum-sociis-natoque-penatibus-et-magnis-dis"
+    },
+    {
+      "id": "01GQ2H0PBGSW117B1G2V2XDBDA",
+      "title": "orci vehicula condimentum curabitur in libero ut",
+      "intro": "reinvent extensible networks",
+      "cover": "http://dummyimage.com/500x500.png/cc0000/ffffff",
+      "createdBy": "tjedrzejn",
+      "body": "cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam",
+      "conclusion": "et tempus semper est quam pharetra magna ac consequat metus",
+      "createdAt": "11/9/2022",
+      "slug": "orci-vehicula-condimentum-curabitur-in-libero-ut"
+    },
+    {
+      "id": "01GQ2H0PBKB66Z9QVXYWV2M8GA",
+      "title": "tincidunt ante vel ipsum praesent blandit",
+      "intro": "orchestrate leading-edge niches",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "lfriero",
+      "body": "lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut",
+      "conclusion": "vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+      "createdAt": "2/1/2022",
+      "slug": "tincidunt-ante-vel-ipsum-praesent-blandit"
+    },
+    {
+      "id": "01GQ2H0PBPV4N8X88MX1FSVG6H",
+      "title": "malesuada in imperdiet et commodo vulputate justo in blandit ultrices",
+      "intro": "unleash rich technologies",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "ttockellp",
+      "body": "sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse",
+      "conclusion": "tortor duis mattis egestas metus aenean fermentum donec ut mauris",
+      "createdAt": "8/15/2022",
+      "slug": "malesuada-in-imperdiet-et-commodo-vulputate-justo-in-blandit-ultrices"
+    },
+    {
+      "id": "01GQ2H0PBSE8XSQ6XFVXFYD8VW",
+      "title": "proin eu mi nulla ac enim",
+      "intro": "scale dynamic partnerships",
+      "cover": "http://dummyimage.com/500x500.png/cc0000/ffffff",
+      "createdBy": "rmoorcraftq",
+      "body": "ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat",
+      "conclusion": "praesent blandit nam nulla integer pede justo lacinia eget tincidunt",
+      "createdAt": "8/13/2022",
+      "slug": "proin-eu-mi-nulla-ac-enim"
+    },
+    {
+      "id": "01GQ2H0PBW4E40QZ4SN9MRVCKD",
+      "title": "vel est donec odio justo sollicitudin",
+      "intro": "envisioneer clicks-and-mortar partnerships",
+      "cover": "http://dummyimage.com/500x500.png/dddddd/000000",
+      "createdBy": "sastlingr",
+      "body": "pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+      "conclusion": "enim in tempor turpis nec euismod scelerisque quam turpis adipiscing",
+      "createdAt": "10/18/2022",
+      "slug": "vel-est-donec-odio-justo-sollicitudin"
+    },
+    {
+      "id": "01GQ2H0PBZCZGBEJC7YGYQBGJF",
+      "title": "nisl nunc nisl duis bibendum felis sed interdum",
+      "intro": "incubate extensible ROI",
+      "cover": "http://dummyimage.com/500x500.png/ff4444/ffffff",
+      "createdBy": "atembys",
+      "body": "sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo",
+      "conclusion": "nisl duis ac nibh fusce lacus purus aliquet at feugiat",
+      "createdAt": "10/5/2022",
+      "slug": "nisl-nunc-nisl-duis-bibendum-felis-sed-interdum"
+    },
+    {
+      "id": "01GQ2H0PC261VWR0BDBZB62W90",
+      "title": "vitae quam suspendisse potenti nullam porttitor lacus",
+      "intro": "empower user-centric ROI",
+      "cover": "http://dummyimage.com/500x500.png/5fa2dd/ffffff",
+      "createdBy": "vcreegant",
+      "body": "justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu",
+      "conclusion": "vitae nisi nam ultrices libero non mattis pulvinar nulla pede",
+      "createdAt": "12/9/2022",
+      "slug": "vitae-quam-suspendisse-potenti-nullam-porttitor-lacus"
+    },
+    {
+      "id": "01GQ2H0PCNZHZKR6JGT4PCEWND",
+      "title": "convallis morbi odio odio elementum eu interdum eu",
+      "intro": "deploy customized relationships",
+      "cover": "http://dummyimage.com/500x500.png/dddddd/000000",
+      "createdBy": "fcatterollz",
+      "body": "luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse ornare consequat lectus in est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu",
+      "conclusion": "tortor risus dapibus augue vel accumsan tellus nisi eu orci",
+      "createdAt": "3/24/2022",
+      "slug": "convallis-morbi-odio-odio-elementum-eu-interdum-eu"
+    },
+    {
+      "id": "itbdxr",
+      "title": "How to make YouTube videos responsive",
+      "slug": "how-to-make-youtube-videos-responsive",
+      "intro": "When embedding a YouTube video on your website, you’ve probably discovered a minor but very annoying issue: YouTube embeds are not natively responsive. This means that when you’re viewing your web page on a mobile device for example, the video doesn’t properly resize with the rest of the page elements. This can negatively impact your website’s design and usability. So why does this happen, and what can you do about it?",
+      "cover": "https://yoast.com/cdn-cgi/image/width=1012%2Cheight=531%2Cdpr=2%2Cfit=cover%2Cf=auto%2Cquality=75%2Conerror=redirect/app/uploads/2022/10/video_study_green_2400x1350_fi.png",
+      "body": "Standard YouTube Embeds, such as the one below, use iFrames to generate an embedded video player:\n\n<h1 style=\"color:red;\">HTML MODIFIED</h1>\n\nThe advantage of using iFrames? It’s a straightforward piece of HTML. Plus, it allows YouTube embeds to be compatible with the broadest possible selection of use cases, applications and content management systems. YouTube can also update existing video embeds with, for example, new player styles or advertising scripts from the server side without requiring users to change the code on their websites. This works because an iFrame essentially acts as a window to a different page.",
+      "conclusion": "However, be sure to test out these themes with your website first. The specific implementation may not work perfectly with your videos.",
+      "createdAt": "2023-01-20T00:41:03.881Z",
+      "createdBy": "Lisandro R."
+    },
+    {
+      "id": "w43dq9",
+      "title": "Yoast SEO news webinar! – January 31, 2023",
+      "slug": "yoast-seo-news-webinar!-%E2%80%93-january-31%2C-2023",
+      "intro": "Why this webinar?\n\nThe world of SEO is constantly evolving, and keeping up with all of these changes can be quite a challenge. Our Head of SEO Jono Alderson will keep you up-to-date on the latest news in our monthly SEO news webinar. He will be joined by our guest speaker Hannah Thorpe. Besides the monthly updates, they’ll talk about using audience data and market research to power innovative content campaigns & strategies.",
+      "cover": "https://yoast.com/cdn-cgi/image/fit=cover%2Cwidth=2024%2Cheight=1070%2Cf=auto%2Conerror=redirect/app/uploads/2022/12/fi-6.png",
+      "body": "<div class=\"post__content\">\n<h3 id=\"h-why-this-webinar\">Why this webinar?</h3>\n<p>The world of SEO is constantly evolving, and keeping up with all of these changes can be quite a challenge. Our Head of SEO Jono Alderson will keep you up-to-date on the latest news in our monthly SEO news webinar. He will be joined by our guest speaker Hannah Thorpe. Besides the monthly updates, they’ll talk about using audience data and market research to power innovative content campaigns &amp; strategies.</p>\n\n\n\n<h3 id=\"h-who-is-this-webinar-for\">Who is this webinar for?</h3>\n\n\n\n<ul>\n<li>Everyone that is regularly working on their SEO;</li>\n\n\n\n<li>If you’re looking for advice or have questions about your SEO strategy;</li>\n\n\n\n<li>If you want to ask these experts your SEO-related questions in the Q&amp;A.</li>\n</ul>\n\n\n\n<h3 id=\"h-details\">Details</h3>\n\n\n\n<ul>\n<li>Tuesday, January 31, 2023;</li>\n\n\n\n<li>Start time 4 pm CET / 10 am EST;</li>\n\n\n\n<li>Duration 1 hour (including Q&amp;A);</li>\n\n\n\n<li><strong>Free webinar</strong>, but registration is required to attend live.Why this webinar?</li>\n</ul>\n\n\n\n<div class=\"row assistant-paragraph-block\">\n\t\t<p>\n\t\t<img width=\"250\" height=\"281\" src=\"https://yoast.com/app/uploads/2021/02/jono_bubble-250x281.png\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://yoast.com/app/uploads/2021/02/jono_bubble-250x281.png 250w, https://yoast.com/app/uploads/2021/02/jono_bubble-133x150.png 133w, https://yoast.com/app/uploads/2021/02/jono_bubble.png 320w\" sizes=\"(max-width: 250px) 100vw, 250px\"></p><h3>Jono Alderson</h3><p>Jono is our <a href=\"https://yoast.com/about-us/team/jono-alderson/\">Head of SEO</a>. He’s a digital strategist, marketing technologist, and full stack developer. He’s into technical SEO, emerging technologies, and brand strategy.</p>\n\t<p></p>\n</div>\n\n\n\n<div class=\"row assistant-paragraph-block\">\n\t\t<p>\n\t\t<img width=\"250\" height=\"250\" src=\"https://yoast.com/app/uploads/2022/12/hannah_thorpe_bubble-250x250.png\" class=\"attachment-medium size-medium\" alt=\"\" decoding=\"async\" loading=\"lazy\" srcset=\"https://yoast.com/app/uploads/2022/12/hannah_thorpe_bubble-250x250.png 250w, https://yoast.com/app/uploads/2022/12/hannah_thorpe_bubble-150x150.png 150w, https://yoast.com/app/uploads/2022/12/hannah_thorpe_bubble-300x300.png 300w, https://yoast.com/app/uploads/2022/12/hannah_thorpe_bubble-100x100.png 100w, https://yoast.com/app/uploads/2022/12/hannah_thorpe_bubble-96x96.png 96w, https://yoast.com/app/uploads/2022/12/hannah_thorpe_bubble.png 500w\" sizes=\"(max-width: 250px) 100vw, 250px\"></p><h3>Hannah Thorpe</h3><p>Hannah is Managing Director at London based digital marketing agency Verkeer, Hannah has over eight years of search experience specialising in combining technical SEO tactics with clever content marketing delivery. Hannah is responsible for leading complex technical strategies through to creating innovative content campaigns that are underpinned by detailed search and audience data to drive positive ROI for her clients.</p>\n\t<p></p>\n</div>\n\t\t\t\t</div>",
+      "conclusion": "",
+      "createdAt": "2023-01-20T01:26:19.429Z",
+      "createdBy": "Hannah Thorpe"
+    }
+  ]
+}

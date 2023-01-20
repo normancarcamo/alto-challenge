@@ -1,0 +1,46 @@
+@import "../assets/base.scss";
+
+.post {
+  max-height: 150px;
+  overflow: auto;
+  position: relative;
+  article {
+    background-color: $post-teaser-color;
+    @include box-shadow-mixin();
+    left: 0;
+    max-height: inherit;
+    padding: 1rem;
+    position: relative;
+    top: 0;
+    img {
+      height: 100%;
+      left: 0;
+      object-fit: cover;
+      object-position: center;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      -webkit-filter: grayscale(0.2) blur(1px) opacity(0.2);
+      filter: grayscale(0.2) blur(1px) opacity(0.2);
+    }
+    h1 {
+      font-size: 1rem !important;
+      font-weight: bolder;
+      margin-bottom: .5rem;
+      max-height: 3.4rem;
+      position: relative;
+      @include text-ellipsis-mixin(normal);
+    }
+    h2 {
+      font-size: .9rem;
+    }
+    h3 {
+      font-size: .8rem;
+    }
+    h2, h3 {
+      max-height: 1.5rem;
+      position: relative;
+      @include text-ellipsis-mixin(nowrap);
+    }
+  }
+}
