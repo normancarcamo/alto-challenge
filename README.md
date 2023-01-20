@@ -1,10 +1,12 @@
 # `Alto frontend developer challenge`
 
-This repository contains the work done during the 4 days allowed to develop it.
-
 ## Task - Create a micro-CMS system for a personal use blog using React JS and local storage
 
-<img width="697" alt="Screen Shot 2023-01-14 at 01 36 03" src="https://user-images.githubusercontent.com/2402579/213760965-fe086200-fef4-4412-babe-c62a330949c6.png">
+This repository contains the work done during the 4 days allowed to develop it.
+
+## Preview (Youtube - click to watch)
+
+[![Watch the video](https://user-images.githubusercontent.com/2402579/213760965-fe086200-fef4-4412-babe-c62a330949c6.png)](https://www.youtube.com/watch?v=AHJG41QCj74)
 
 ## Stack
 
