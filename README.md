@@ -37,7 +37,10 @@ Production: `npm run build`
 
 **Note**
 
-This is just merelly inteded for a challenge interview,
+- This is just merelly inteded for a challenge interview,
 it might have some things in which you might have some suggestions to refine,
 if so send me a message to `normancarcamo@gmail.com`
 to discuss more about it in case it worth it.
+
+- If you want to edit the initial information about the company such as the logo, information, video and teaser posts,
+then you could do it i the file `src/assets/blog.json`.
