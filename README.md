@@ -26,7 +26,8 @@ This repository contains the work done during the 4 days allowed to develop it.
 6. You can see the details of a Blog Post
 7. You can send a message using the `Contact Us` section
 8. You can see a `About Us`
-9. Local Storage is used to save/load the Blog information
+9. You can see the whole site in sm/md/lg/xl+ due to is responsive mobile first approach.
+10. Local Storage is used to save/load the Blog information (fake initial data is provided)
 
 ## Run
 
