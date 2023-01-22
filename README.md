@@ -47,4 +47,4 @@ to discuss more about it in case it worth it. Although, it's just a challenge fo
 - If you want to edit the initial information about the company such as the logo, information, video and teaser posts,
 then you could do it i the file `src/assets/blog.json`.
 
-- Temporary you can take a look at the work done under: [https://normancarcamo.github.io/](https://normancarcamo.github.io/)
+- Temporary you can take a look at the work done under: [netlify](https://63cd51a4cf78ab3b5ea883c9--thriving-cascaron-7fe8ce.netlify.app/)
